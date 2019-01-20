@@ -1,6 +1,5 @@
-# ICG-AutoExploiterBoT
-<br> :heavy_exclamation_mark: Edit Line 44 Add your Email Address for Add admin joomla Exploit ( Use outlook.com Mail! )  :heavy_check_mark:<br>
-<h3> :warning:Note! : We don't Accept any responsibility for any illegal usage.</h3><br>
+# ICG-ScaAutoxploiterBot
+<h3> :warning! : Kami tidak Menerima tanggung jawab atas penggunaan ilegal apa pun..</h3><br>
 <br>
 
 <h3>- only work on 2.7 version python</h3>
