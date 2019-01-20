@@ -1,4 +1,4 @@
-# ICG-ScaAutoxploiterBot
+# ICG-AutoxploiterBot
 <h3> warning! : Kami tidak Menerima tanggung jawab atas penggunaan ilegal apa pun..</h3><br>
 
 <h3>- only work on 2.7 version python</h3>
