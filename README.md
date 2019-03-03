@@ -1,8 +1,7 @@
 # ICG-AutoxploiterBot
-<h3> warning! : Kami tidak Menerima tanggung jawab atas penggunaan ilegal apa pun..</h3><br>
 
 <h3>- only work on 2.7 version python</h3>
-<br><h3> free Penetration Testing tool </h3>
+<br><h3> Free Penetration Testing tool </h3>
 
 <br>
 <center><a href="http://www.youtube.com/watch?feature=player_embedded&v=XyiQZmsGLAw
