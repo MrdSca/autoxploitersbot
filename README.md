@@ -1,4 +1,4 @@
-# ICG-AutoxploiterBot
+# AutoxploiterBot
 
 <h3>- only work on 2.7 version python</h3>
 <br><h3> Free Penetration Testing tool </h3>
